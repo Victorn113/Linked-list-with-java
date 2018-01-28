@@ -1,0 +1,1 @@
+This program includes a main class with an initial list under 'sLList.java' and a separate class under 'tod.java' that establishes dynamic functionality of the list, allowing three more elements to be inserted in the middle of the list.
